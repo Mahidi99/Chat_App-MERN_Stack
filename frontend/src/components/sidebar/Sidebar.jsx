@@ -2,8 +2,13 @@ import React from 'react'
 
 const Sidebar = () => {
   return (
-    <div>Sidebar</div>
+    <div>
+        <SearchInput />
+        <div className='divider px-3'></div>
+        {/* <Conversations />
+        <LogoutButton /> */}
+    </div>
   )
 }
 
-export default Sidebar
+export default Sidebar;
