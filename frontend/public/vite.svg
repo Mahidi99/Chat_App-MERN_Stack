@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--logos" width="31.88" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 257"><defs><linearGradient id="IconifyId1813088fe1fbc01fb466" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%"><stop offset="0%" stop-color="#41D1FF"></stop><stop offset="100%" stop-color="#BD34FE"></stop></linearGradient><linearGradient id="IconifyId1813088fe1fbc01fb467" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%"><stop offset="0%" stop-color="#FFEA83"></stop><stop offset="8.333%" stop-color="#FFDD35"></stop><stop offset="100%" stop-color="#FFA800"></stop></linearGradient></defs><path fill="url(#IconifyId1813088fe1fbc01fb466)" d="M255.153 37.938L134.897 252.976c-2.483 4.44-8.862 4.466-11.382.048L.875 37.958c-2.746-4.814 1.371-10.646 6.827-9.67l120.385 21.517a6.537 6.537 0 0 0 2.322-.004l117.867-21.483c5.438-.991 9.574 4.796 6.877 9.62Z"></path><path fill="url(#IconifyId1813088fe1fbc01fb467)" d="M185.432.063L96.44 17.501a3.268 3.268 0 0 0-2.634 3.014l-5.474 92.456a3.268 3.268 0 0 0 3.997 3.378l24.777-5.718c2.318-.535 4.413 1.507 3.936 3.838l-7.361 36.047c-.495 2.426 1.782 4.5 4.151 3.78l15.304-4.649c2.372-.72 4.652 1.36 4.15 3.788l-11.698 56.621c-.732 3.542 3.979 5.473 5.943 2.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505 4.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z"></path></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.cls-1{fill:#f99;}.cls-1,.cls-2{stroke:#54596e;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.cls-2{fill:#9af43b;}.cls-3{opacity:0.1;}.cls-4{fill:#54596e;}.cls-5{fill:#61c5a8;}.cls-6{fill:#ff927d;}</style>
+</defs>
+<title>chat</title>
+<g id="chat">
+<path class="cls-1" d="M35,8C20.09,8,8,17.4,8,29c0,6.39,3.68,12.11,9.47,16L15,53l8.26-5.08A33.5,33.5,0,0,0,35,50c14.91,0,27-9.4,27-21S49.91,8,35,8Z"/>
+<path class="cls-2" d="M29,12C14.09,12,2,21.4,2,33c0,6.39,3.68,12.11,9.47,16L9,57l8.26-5.08A33.5,33.5,0,0,0,29,54c14.91,0,27-9.4,27-21S43.91,12,29,12Z"/>
+<g class="cls-3">
+<path class="cls-4" d="M10.81,51.11,9,57l7.28-4.48A33,33,0,0,1,10.81,51.11Z"/>
+<path class="cls-4" d="M30.34,12C41.17,14.76,49,22.67,49,32c0,11.6-12.09,21-27,21-.45,0-.89,0-1.34,0A34.27,34.27,0,0,0,29,54c14.91,0,27-9.4,27-21C56,21.75,44.63,12.57,30.34,12Z"/>
+</g>
+<circle class="cls-4" cx="31" cy="27" r="2"/>
+<circle class="cls-4" cx="14" cy="27" r="2"/>
+<circle class="cls-5" cx="31" cy="32" r="2"/>
+<circle class="cls-5" cx="14" cy="32" r="2"/>
+<ellipse class="cls-4" cx="22" cy="36" rx="4" ry="5"/>
+<ellipse class="cls-6" cx="22" cy="39" rx="2" ry="1"/>
+</g>
+</svg>
